@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\rent\rms\resources\views/bills/list.blade.php ENDPATH**/ ?>

@@ -1,0 +1,16 @@
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "PK77BRMLUB",
+            "TransTime": "20211107112141",
+            "TransAmount": "1.00",
+            "BusinessShortCode": "4080833",
+            "BillRefNumber": "2820005",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "61.00",
+            "ThirdPartyTransID": "",
+            "MSISDN": "254714264331",
+            "FirstName": "BEDAH",
+            "MiddleName": "OUMA",
+            "LastName": "OTIENO"
+        }
+        
